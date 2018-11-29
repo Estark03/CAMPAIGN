@@ -1,0 +1,39 @@
+h1 {
+ text-align: center;
+    
+}
+
+.slogan {
+    font-size: 35px;   
+ font-family: 'Abril Fatface', cursive;
+    
+
+
+}
+
+.title {
+       font-family: 'Anton', sans-serif;
+font-size: 45px;
+    
+}
+ 
+img {
+  border: solid red 20px;
+    margin: 25px;
+height: 300px;
+}
+
+.images {
+    display: flex;
+        justify-content: center;
+}
+
+.Button {
+    border: solid blue 5px; 
+        display: flex;
+ justify-content: center;
+}
+
+.heading {
+    border: solid blue 20px;
+}
