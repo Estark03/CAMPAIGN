@@ -29,7 +29,7 @@ height: 210px;
 }
 
 .Button {
-    border: solid blue 5px; 
+    border: solid blue 10px; 
         display: flex;
  justify-content: center;
     font-size: 30px;
@@ -37,7 +37,7 @@ height: 210px;
 
 .heading {
     border: solid blue 20px;
-        
+        padding: 15px;   
 }
 
 html {
@@ -49,7 +49,7 @@ html {
     display: flex;
 justify-content: center;
     border: solid red 15px;
-         font-size: 80px;
+         font-size: 50px;
     text-align: center;
     font-family: 'Oswald', sans-serif;
 }
